@@ -1,0 +1,13 @@
+- History of JS
+- where should we write JS
+- variables
+- Data Types
+- Arthemetic Operators
+- Comparisons
+- Logical Operators
+- Short Circuits
+- Conditions
+- Loops
+- How to take input from user
+- how to write in html page
+- (alert, confirm)
